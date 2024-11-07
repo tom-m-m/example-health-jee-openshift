@@ -1,0 +1,15 @@
+com/ibm/examplehealth/Organization.class
+com/ibm/examplehealth/Appointment.class
+com/ibm/examplehealth/SynthData.class
+com/ibm/examplehealth/JAXRSConfiguration.class
+com/ibm/examplehealth/CityCounts.class
+com/ibm/examplehealth/Allergy.class
+com/ibm/examplehealth/Observation.class
+com/ibm/examplehealth/Prescription.class
+com/ibm/examplehealth/ExampleResource.class
+com/ibm/examplehealth/Patient.class
+com/ibm/examplehealth/Message.class
+com/ibm/examplehealth/Provider.class
+com/ibm/examplehealth/AppointmentList.class
+com/ibm/examplehealth/Credentials.class
+com/ibm/examplehealth/AllergyList.class

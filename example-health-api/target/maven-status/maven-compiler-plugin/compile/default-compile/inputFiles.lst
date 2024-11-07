@@ -1,0 +1,15 @@
+/root/example-health-jee-openshift/example-health-api/src/main/java/com/ibm/examplehealth/JAXRSConfiguration.java
+/root/example-health-jee-openshift/example-health-api/src/main/java/com/ibm/examplehealth/Allergy.java
+/root/example-health-jee-openshift/example-health-api/src/main/java/com/ibm/examplehealth/Credentials.java
+/root/example-health-jee-openshift/example-health-api/src/main/java/com/ibm/examplehealth/Provider.java
+/root/example-health-jee-openshift/example-health-api/src/main/java/com/ibm/examplehealth/Appointment.java
+/root/example-health-jee-openshift/example-health-api/src/main/java/com/ibm/examplehealth/Organization.java
+/root/example-health-jee-openshift/example-health-api/src/main/java/com/ibm/examplehealth/Prescription.java
+/root/example-health-jee-openshift/example-health-api/src/main/java/com/ibm/examplehealth/AllergyList.java
+/root/example-health-jee-openshift/example-health-api/src/main/java/com/ibm/examplehealth/Message.java
+/root/example-health-jee-openshift/example-health-api/src/main/java/com/ibm/examplehealth/CityCounts.java
+/root/example-health-jee-openshift/example-health-api/src/main/java/com/ibm/examplehealth/SynthData.java
+/root/example-health-jee-openshift/example-health-api/src/main/java/com/ibm/examplehealth/Observation.java
+/root/example-health-jee-openshift/example-health-api/src/main/java/com/ibm/examplehealth/ExampleResource.java
+/root/example-health-jee-openshift/example-health-api/src/main/java/com/ibm/examplehealth/AppointmentList.java
+/root/example-health-jee-openshift/example-health-api/src/main/java/com/ibm/examplehealth/Patient.java
